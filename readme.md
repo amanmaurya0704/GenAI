@@ -1,4 +1,4 @@
-# Project Title: Gemini LLM & Pro Streamlit Apps
+# Gemini Pro LLM Streamlit Apps
 
 Welcome to the **Gemini LLM & Pro Streamlit Apps** repository! This project contains two distinct Streamlit applications. The first app leverages the Gemini LLM to respond to user queries, while the second app uses Gemini Pro to analyze resume PDFs and match them with job descriptions, highlighting missing keywords and providing a conclusion about the resume.
 
